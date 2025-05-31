@@ -1,1 +1,1 @@
-obfuscated script
+loadstring(game:HttpGet("https://scriptguardian.onrender.com/scriptguardian/files/scripts/loaders/c009cb856b43468b804a2d7ddac7537d"))()
